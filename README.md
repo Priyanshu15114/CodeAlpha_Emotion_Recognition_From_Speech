@@ -23,11 +23,6 @@ There are some little differences betweem the implementation and the paper, eg.w
 
 If you want to download the `IEMOCAP` database, you can access the link:https://sail.usc.edu/iemocap/release_form.php
 
-The detailed information of this code can be found in 3-D.pdf, you can download if from the top of this page. 
-## Author
-Xuanji He<br> 
-E-mail: xuanjihe@163.com
-
 ## Citation
 If you used this code, please kindly consider citing the following paper:
 
